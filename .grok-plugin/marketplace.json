@@ -486,6 +486,25 @@
         "email": "support@videogen.io",
         "url": "https://github.com/video-gen"
       }
+    },
+    {
+      "name": "local-commander",
+      "description": "Work on approved projects on your computer: read files and Git, run the checks you approve.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/netbka/local-commander-plugins.git",
+        "path": "grok-build",
+        "sha": "ffb83450ed45bde7424a7e2c12cdaaab16fb36d8"
+      },
+      "homepage": "https://localcmd.app",
+      "keywords": [
+        "local-commander",
+        "localcmd"
+      ],
+      "domains": [
+        "localcmd.app"
+      ]
     }
   ]
 }
